@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/jakefrommars64/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/jakefrommars64/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -22,21 +28,24 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakefrommars64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jakefrommars64&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakefrommars64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jakefrommars64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&border_radius=20" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jakefrommars64&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakefrommars64&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&exclude_repo=jakefrommars64,jakefrommars64-old,jakefrommars64.github.io,Foam-PKMS-CMS,resume-generator&border_radius=20" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakefrommars64&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakefrommars64&radius=20&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jakefrommars64&theme=darkhub&column=3&row=3&margin-w=16&margin-h=8&no-bg=false&no-frame=false&order=5" height="300" alt="trophy graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jakefrommars64&theme=darkhub&column=-1&row=1&margin-w=16&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    <img src="https://raw.githubusercontent.com/jakefrommars64/jakefrommars64/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
@@ -203,18 +212,6 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jakefrommars64/jakefrommars64/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jakefrommars64/count.svg?"  />
 </div>
 
 ###
